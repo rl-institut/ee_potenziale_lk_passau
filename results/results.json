@@ -1,0 +1,56 @@
+{
+    "basic_data": {
+        "Total area [km2]": {
+            "Passau": 1530.243088832911
+        }
+    },
+    "wind": {
+        "Potential areas without forest and LPA [km2]": {
+            "Passau": 22.082005995600902
+        },
+        "Potential areas without forest and LPA [%]": {
+            "Passau": 1.4430390933797617
+        },
+        "Installable nominal power without forest and LPA [MW]": {
+            "Passau": 463.72212590761893
+        },
+        "Potential areas with forest and LPA [km2]": {
+            "Passau": 51.167475587530404
+        },
+        "Potential areas with forest and LPA [%]": {
+            "Passau": 3.343748190135916
+        },
+        "Installable nominal power with forest and LPA [MW]": {
+            "Passau": 1074.5169873381385
+        },
+        "Required areas 2027 1.1% [km2]": {
+            "Passau": 16.83267397716202
+        },
+        "Required nominal power 2027 1.1% [MW]": {
+            "Passau": 353.4861535204024
+        },
+        "Required areas 2032 1.8% [km2]": {
+            "Passau": 27.5443755989924
+        },
+        "Required nominal power 2032 1.8% [MW]": {
+            "Passau": 578.4318875788404
+        }
+    },
+    "pv_ground": {
+        "Potential areas total (500m) [km2]": {
+            "Passau": 8.553936818939237
+        },
+        "Potential areas total (500m) [%]": {
+            "Passau": 0.558992024297471
+        },
+        "Installable nominal power total (500m) [MW]": {
+            "Passau": 855.3936818939237
+        },
+        "Required areas 0.7% [km2]": {
+            "Passau": 10.711701621830377
+        },
+        "Required nominal power 0.7% [MW]": {
+            "Passau": 1071.1701621830377
+        }
+    }
+}

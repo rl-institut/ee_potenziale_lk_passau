@@ -1,0 +1,17 @@
+,,Passau
+basic_data,Total area [km2],1530.243088832911
+pv_ground,Installable nominal power total (500m) [MW],855.3936818939237
+pv_ground,Potential areas total (500m) [%],0.558992024297471
+pv_ground,Potential areas total (500m) [km2],8.553936818939237
+pv_ground,Required areas 0.7% [km2],10.711701621830377
+pv_ground,Required nominal power 0.7% [MW],1071.1701621830377
+wind,Installable nominal power with forest and LPA [MW],1074.5169873381385
+wind,Installable nominal power without forest and LPA [MW],463.72212590761893
+wind,Potential areas with forest and LPA [%],3.343748190135916
+wind,Potential areas with forest and LPA [km2],51.167475587530404
+wind,Potential areas without forest and LPA [%],1.4430390933797617
+wind,Potential areas without forest and LPA [km2],22.082005995600902
+wind,Required areas 2027 1.1% [km2],16.83267397716202
+wind,Required areas 2032 1.8% [km2],27.5443755989924
+wind,Required nominal power 2027 1.1% [MW],353.4861535204024
+wind,Required nominal power 2032 1.8% [MW],578.4318875788404
