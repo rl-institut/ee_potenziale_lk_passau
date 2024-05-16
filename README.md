@@ -24,6 +24,10 @@ Virtualenv anlegen und aktivieren (hier mit Python 3.8)
     virtualenv --python=python3.8 venv
     source venv/bin/activate
 
+Benötigte Pakete installieren
+
+    pip install -r requirements.txt
+
 Jupyter im Browser öffnen
 
     jupyter notebook
